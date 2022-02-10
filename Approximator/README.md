@@ -1,1 +1,1 @@
-
+Put your dataset to approximate in this directory. For an experiment, you can put the entire state space as a .csv as the program will create the training and testing dataset by itself and approximate accordingly.
